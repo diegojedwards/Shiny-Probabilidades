@@ -1,0 +1,12 @@
+name: probabilidades
+title:
+username:
+account: probabilidadyestadistica
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 402765
+bundleId: 1543410
+url: https://probabilidadyestadistica.shinyapps.io/probabilidades/
+when: 1534728327.65038
+asMultiple: FALSE
+asStatic: FALSE
