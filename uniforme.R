@@ -1,6 +1,6 @@
 uniforme <- function(n, tipo.var, intervalos, table) {
     
-    uni <- c() #Para cambiar
+    uni <- c() #
     
     if (tipo.var == "x_raya"){
         
